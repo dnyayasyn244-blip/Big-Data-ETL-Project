@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,city,product_id,product_name,category,price,quantity,date
+1,101,Ali,Cairo,501,Laptop,Electronics,15000,1,2026-05-01
+2,102,Mona,Alex,502,Mouse,Electronics,500,2,2026-05-02
+3,101,Ali,Cairo,503,Keyboard,Electronics,800,1,2026-05-02
+4,103,Omar,Giza,504,Desk,Furniture,2500,1,2026-05-03
+5,104,Donia,Cairo,501,Laptop,Electronics,15000,1,2026-05-03
